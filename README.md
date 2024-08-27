@@ -9,6 +9,10 @@ This project demonstrates the use of image processing techniques to segment imag
 
 Additionally, a Streamlit web application has been created to allow users to test the code and produce their own results by choosing different parameters interactively.
 
+The waterpixels generation method is based on the following research paper :
+
+https://hal.archives-ouvertes.fr/hal-01212760/document
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Requirements](#requirements)
